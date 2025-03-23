@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @codecyberphoenix. I am a beginner and aim to be good defender against digital crimes.
-- 👀 I’m interested in ... Cybersecurity and aim to be an ethical hacker.
-- 🌱 I’m currently learning ... Google Cybersecurity
+- 👀 I’m interested in Cybersecurity and aim to be an ethical hacker.
+- 🌱 I’m currently learning Google Cybersecurity
 - 💞️ I’m looking to collaborate to learn and become an ethical hacking and be a bug bounty hunter
-- 📫 How to reach me ...codecyberphoenix@gmail.com
-- 😄 Pronouns: ...She
-- ⚡ Fun fact: ...I love to cook, bake, gardening and sewing are my hobbies
+- 📫 How to reach me odecyberphoenix@gmail.com
+- 😄 I dont have any issues with pronouns but I am She
+- ⚡ Fun fact:I love to cook, bake, gardening and sewing are my hobbies. 
 - 
 
 <!---
